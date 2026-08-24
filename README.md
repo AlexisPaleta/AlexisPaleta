@@ -55,12 +55,6 @@ I enjoy building intelligent systems, experimenting with new technologies, and t
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AlexisPaleta&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Let's Connect  
 
 I am always open to research collaborations, AI projects, and innovative software development opportunities.
